@@ -3785,6 +3785,34 @@
     },
     {
         "exitcode": 0,
+        "id": "136.89",
+        "known_error": 0,
+        "name": "RunMuonEG2018D",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 56
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 150
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "136.897",
         "known_error": 0,
         "name": "RunCosmics2021CRUZET",
