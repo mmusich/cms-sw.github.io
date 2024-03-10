@@ -1,0 +1,791 @@
+{
+    "base_branch": "CMSSW_14_0_X", 
+    "release_name": "CMSSW_14_0_MULTIARCHS_X", 
+    "comparisons": [
+        {
+            "comp_baseline_state": "errors", 
+            "python3_tests": [], 
+            "tests_archs": [], 
+            "cmsdist_merged_prs": {
+                "el9_amd64_gcc12": [], 
+                "el8_amd64_gcc12": []
+            }, 
+            "cmsdist_compared_tags": {
+                "el9_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el9_amd64_gcc12..IB/CMSSW_14_0_X/cs9", 
+                "el8_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el8_amd64_gcc12..IB/CMSSW_14_0_X/master"
+            }, 
+            "cmsdistTags": {}, 
+            "next_ib": true, 
+            "RVExceptions": null, 
+            "fwlite": [], 
+            "profiling": "not-found", 
+            "crab_tests": "not-found", 
+            "compared_tags": "CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300-->CMSSW_14_0_X", 
+            "dqm_tests": "not-found", 
+            "utests": [], 
+            "ib_date": "2024-03-07-2300-0001", 
+            "relvals": [], 
+            "igprof": "not-found", 
+            "release_queue": "CMSSW_14_0_MULTIARCHS_X", 
+            "release_name": "CMSSW_14_0_X", 
+            "comp_baseline": "not-found", 
+            "gpu_utests": [], 
+            "material_budget_comparison": "not-found", 
+            "merged_prs": [
+                {
+                    "hash": "2edeee1156b65df9bee795478e6a8a64bae4bc2c", 
+                    "title": "[140X] Add Phase-2 T33 SIM LA payload", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44351", 
+                    "number": "44351", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "tvami"
+                }, 
+                {
+                    "hash": "9c122d35d1b5d378205c53bada08544e30c42a31", 
+                    "title": "Add standard open file message; minor updates [14.0.X]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44342", 
+                    "number": "44342", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "namapane"
+                }
+            ], 
+            "base_branch": "CMSSW_14_0_X", 
+            "invalid_includes": [], 
+            "builds": [], 
+            "material_budget_v2": "not-found", 
+            "check-headers": "not-found", 
+            "static_checks_v2": "not-found", 
+            "valgrind": "not-found", 
+            "material_budget": "not-found", 
+            "dupDict": [], 
+            "static_checks_failures": "not-found", 
+            "static_checks": "not-found", 
+            "isIB": false, 
+            "inProgress": false, 
+            "addons": [], 
+            "hlt_tests": "not-found"
+        }, 
+        {
+            "comp_baseline_state": "errors", 
+            "python3_tests": [], 
+            "tests_archs": [
+                "el9_amd64_gcc12", 
+                "el8_amd64_gcc12"
+            ], 
+            "cmsdist_merged_prs": {
+                "el9_amd64_gcc12": [], 
+                "el8_amd64_gcc12": []
+            }, 
+            "cmsdist_compared_tags": {
+                "el9_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el9_amd64_gcc12..IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el9_amd64_gcc12", 
+                "el8_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el8_amd64_gcc12..IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el8_amd64_gcc12"
+            }, 
+            "cmsdistTags": {
+                "el9_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el9_amd64_gcc12", 
+                "el8_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el8_amd64_gcc12"
+            }, 
+            "next_ib": false, 
+            "RVExceptions": null, 
+            "fwlite": [], 
+            "profiling": "not-found", 
+            "crab_tests": "not-found", 
+            "compared_tags": "CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300-->CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300", 
+            "dqm_tests": "not-found", 
+            "utests": [
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }, 
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "0"
+                    }
+                }
+            ], 
+            "ib_date": "2024-03-07-2300-0000", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 4260, 
+                        "known_failed": 0, 
+                        "num_failed": 0
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 4260, 
+                        "known_failed": 0, 
+                        "num_failed": 0
+                    }
+                }
+            ], 
+            "igprof": "not-found", 
+            "release_queue": "CMSSW_14_0_MULTIARCHS_X", 
+            "release_name": "CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300", 
+            "comp_baseline": "not-found", 
+            "gpu_utests": [], 
+            "material_budget_comparison": "not-found", 
+            "merged_prs": [
+                {
+                    "hash": "8e6c70f65dd0b2f2c318d1175be4ebfdac12e13d", 
+                    "title": "Add default values in `{CaloRecHitSoA,PFRecHitSoA,LegacyPFRecHit,PFClusterSoA}Producer::fillDescriptions` [`14_0_X`]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44291", 
+                    "number": "44291", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "missirol"
+                }, 
+                {
+                    "hash": "8f0c5fd2ebafb4e88401d4cdc50cf59a82887c95", 
+                    "title": "ECAL - Fix heap-buffer overflows reported by ASAN - 140x", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44304", 
+                    "number": "44304", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "thomreis"
+                }, 
+                {
+                    "hash": "540bce0a799daa1e647a73d05dde896ee0f49221", 
+                    "title": "[CMSSW_14_0_X] Update the Run4 GT with the updated OMTF config", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44305", 
+                    "number": "44305", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "perrotta"
+                }, 
+                {
+                    "hash": "0e3a50d00bfd170860a63ae15e6018112409560d", 
+                    "title": "Fix on mvaID for muons (backport)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44294", 
+                    "number": "44294", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cramonal"
+                }, 
+                {
+                    "hash": "6f6f63420f937d01af84f260d8577fb49fd76e05", 
+                    "title": "Reduce complexity of erasing elements from vectors in PATTauHybridProducer [14_0_X]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44295", 
+                    "number": "44295", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mbluj"
+                }, 
+                {
+                    "hash": "0871ebd40ce74a59f9eef7d1e9008b0bce90d462", 
+                    "title": "Handling of FOG special HLT menus [140X]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44313", 
+                    "number": "44313", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-tsg-storm"
+                }, 
+                {
+                    "hash": "6937f908e47b41b31ca3cf6b1a336fd669b11eb2", 
+                    "title": "[14.0.X] Add ntuplization code for sagitta-bias studies to `Alignment/OfflineValidation`", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44297", 
+                    "number": "44297", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "0dedcafca0bbde8b8b89be95e1c8b1c8c6947fd8", 
+                    "title": "[CMSSW_14_0_X] Add two more PV variables requested by H->gammagamma c", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44325", 
+                    "number": "44325", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "JunquanTao"
+                }, 
+                {
+                    "hash": "92400344704b2f4a29bd1b05ad99c1c01ea28dbe", 
+                    "title": "[14.0.X] Update Run3 HLT GT to remove unused JEC tags", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44274", 
+                    "number": "44274", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "saumyaphor4252"
+                }, 
+                {
+                    "hash": "5584911047685d00ff9f4f4a5e60c2dabf6ea955", 
+                    "title": "[14_0_X] Erase from correct vector in PATTauHybridProducer", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44272", 
+                    "number": "44272", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "makortel"
+                }, 
+                {
+                    "hash": "c2a70b12063b7d65238ca35bb089b07a637b55e1", 
+                    "title": "[14_0_x Backport] EXOSoftDisplacedVertices skim", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/43940", 
+                    "number": "43940", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "LangFelix1"
+                }, 
+                {
+                    "hash": "697f1a18848e90210f21d3938f063c851e6e1155", 
+                    "title": "Dynamic PPS timing calibration fit [backport of 44235]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44289", 
+                    "number": "44289", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "CTPPS"
+                }, 
+                {
+                    "hash": "9049a3ddd0e5ef6cdc93b65e8191c90b9313eaed", 
+                    "title": "Fix PrimaryVertexProducer::fillDescriptions to generate a cfi file [140X]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44288", 
+                    "number": "44288", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-tsg-storm"
+                }, 
+                {
+                    "hash": "a0e2e8c599166ec525c5dee23d80a68a610da9cd", 
+                    "title": "Run3-gex176C Backport the PR's 44006 and 44052 for the 2024 scenario definition with additional chambers for GE21 and iRPC", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44053", 
+                    "number": "44053", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
+                }, 
+                {
+                    "hash": "54465355aeb128054103906c0cf030e8be5f80e2", 
+                    "title": "[14.0.X]  Tracker alignment offline validation tools: miscellaneous fixes to muon-related validations", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44257", 
+                    "number": "44257", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "7aa6331b15a047fb0d49dd3814460caa0fc2e472", 
+                    "title": "[14_0_X] Fix LHCInfoPer* PopCons to produce lumi-type IOVs when running in duringFill mode", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/43972", 
+                    "number": "43972", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "francescobrivio"
+                }, 
+                {
+                    "hash": "9d3aee0d0bae776ec18607e76d3991c37a028444", 
+                    "title": "[PPS] Added gtStage2DigisAlCaRecoProducer to ALCARECOPRODUCER [14_0_X backport]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44091", 
+                    "number": "44091", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "CTPPS"
+                }, 
+                {
+                    "hash": "cc72de893de5425ee88c9b2bda2233361566d3ed", 
+                    "title": "[14_0_X] Custom nano for e/gamma", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44255", 
+                    "number": "44255", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "swagata87"
+                }, 
+                {
+                    "hash": "4c0f63ce89ba232f9ac891bf2c772d2eac7380f5", 
+                    "title": "[14_0_X] Pythia8 photon flux", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44259", 
+                    "number": "44259", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "stahlleiton"
+                }, 
+                {
+                    "hash": "f47ccd9d6972247915aaeeb44a5e86d9e8f2a7c1", 
+                    "title": " HLT menu development for 14_0_X (3/N)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44303", 
+                    "number": "44303", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-tsg-storm"
+                }
+            ], 
+            "base_branch": "CMSSW_14_0_X", 
+            "invalid_includes": [], 
+            "builds": [
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 81
+                    }
+                }, 
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 81
+                    }
+                }
+            ], 
+            "material_budget_v2": "not-found", 
+            "check-headers": "not-found", 
+            "static_checks_v2": "not-found", 
+            "valgrind": "not-found", 
+            "material_budget": "not-found", 
+            "dupDict": [
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": "passed"
+                }, 
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": "passed"
+                }
+            ], 
+            "static_checks_failures": "not-found", 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "inProgress": false, 
+            "addons": [
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/thu/14.0.MULTIARCHS-thu-23/CMSSW_14_0_MULTIARCHS_X_2024-03-07-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "hlt_tests": "not-found"
+        }, 
+        {
+            "comp_baseline_state": "errors", 
+            "python3_tests": [], 
+            "tests_archs": [
+                "el9_amd64_gcc12", 
+                "el8_amd64_gcc12"
+            ], 
+            "cmsdist_merged_prs": {
+                "el9_amd64_gcc12": [], 
+                "el8_amd64_gcc12": []
+            }, 
+            "cmsdist_compared_tags": {
+                "el9_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el9_amd64_gcc12..IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el9_amd64_gcc12", 
+                "el8_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el8_amd64_gcc12..IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el8_amd64_gcc12"
+            }, 
+            "cmsdistTags": {
+                "el9_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el9_amd64_gcc12", 
+                "el8_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/el8_amd64_gcc12"
+            }, 
+            "next_ib": false, 
+            "RVExceptions": null, 
+            "fwlite": [], 
+            "profiling": "not-found", 
+            "crab_tests": "not-found", 
+            "compared_tags": "CMSSW_14_0_MULTIARCHS_X_2024-02-29-2300-->CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300", 
+            "dqm_tests": "not-found", 
+            "utests": [
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }, 
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": "failed", 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/unitTests-summary.log", 
+                    "details": {
+                        "num_fails": "1"
+                    }
+                }
+            ], 
+            "ib_date": "2024-03-03-2300-0000", 
+            "relvals": [
+                {
+                    "done": true, 
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 4254, 
+                        "known_failed": 0, 
+                        "num_failed": 0
+                    }
+                }, 
+                {
+                    "done": true, 
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 4251, 
+                        "known_failed": 0, 
+                        "num_failed": 1
+                    }
+                }
+            ], 
+            "igprof": "not-found", 
+            "release_queue": "CMSSW_14_0_MULTIARCHS_X", 
+            "release_name": "CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300", 
+            "comp_baseline": "not-found", 
+            "gpu_utests": [], 
+            "material_budget_comparison": "not-found", 
+            "merged_prs": [
+                {
+                    "hash": "768c0d5dd45d3d18bab817d320752b25463bedb3", 
+                    "title": "[14_0_X] Fix logic in PFClusterSoAProducer kernels", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44278", 
+                    "number": "44278", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "jsamudio"
+                }
+            ], 
+            "base_branch": "CMSSW_14_0_X", 
+            "invalid_includes": [], 
+            "builds": [
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 694
+                    }
+                }, 
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": "passed", 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/new/logAnalysis.pkl", 
+                    "details": {
+                        "ignoreWarning": 697
+                    }
+                }
+            ], 
+            "material_budget_v2": "not-found", 
+            "check-headers": "not-found", 
+            "static_checks_v2": "not-found", 
+            "valgrind": "not-found", 
+            "material_budget": "not-found", 
+            "dupDict": [
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": "passed"
+                }, 
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": "passed"
+                }
+            ], 
+            "static_checks_failures": "not-found", 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "inProgress": false, 
+            "addons": [
+                {
+                    "arch": "el8_amd64_gcc12", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/addOnTests.log", 
+                    "details": {}
+                }, 
+                {
+                    "arch": "el9_amd64_gcc12", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/sun/14.0.MULTIARCHS-sun-23/CMSSW_14_0_MULTIARCHS_X_2024-03-03-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
+            "hlt_tests": "not-found"
+        }, 
+        {
+            "comp_baseline_state": "errors", 
+            "python3_tests": [], 
+            "tests_archs": [], 
+            "cmsdist_merged_prs": {}, 
+            "cmsdist_compared_tags": {}, 
+            "cmsdistTags": {
+                "el9_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-02-29-2300/el9_amd64_gcc12", 
+                "el8_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-02-29-2300/el8_amd64_gcc12"
+            }, 
+            "next_ib": false, 
+            "RVExceptions": null, 
+            "fwlite": [], 
+            "profiling": "not-found", 
+            "crab_tests": "not-found", 
+            "compared_tags": "CMSSW_14_0_MULTIARCHS_X_2024-02-25-2300-->CMSSW_14_0_MULTIARCHS_X_2024-02-29-2300", 
+            "dqm_tests": "not-found", 
+            "utests": [], 
+            "ib_date": "2024-02-29-2300-0000", 
+            "relvals": [], 
+            "igprof": "not-found", 
+            "release_queue": "CMSSW_14_0_MULTIARCHS_X", 
+            "release_name": "CMSSW_14_0_MULTIARCHS_X_2024-02-29-2300", 
+            "comp_baseline": "not-found", 
+            "gpu_utests": [], 
+            "material_budget_comparison": "not-found", 
+            "merged_prs": [
+                {
+                    "hash": "b74de4a4f6e19b6aae6f99a1c6e77bdf7731b0fd", 
+                    "title": "[14_0_X] Remove unpackLayer1 option from L1REPACK:Full", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/43985", 
+                    "number": "43985", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "eyigitba"
+                }, 
+                {
+                    "hash": "aa411fad8f6c1db1bf07593c1f2038d4e2cabeff", 
+                    "title": "Move SoA collections ROOT read rules to classes.cc [14.0.x]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44022", 
+                    "number": "44022", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fwyzard"
+                }, 
+                {
+                    "hash": "2d3d571452cf081d14d52920a08227c4a5a406fe", 
+                    "title": "Let tests fail gracefully if no devices are found [14.0.x]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44042", 
+                    "number": "44042", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fwyzard"
+                }, 
+                {
+                    "hash": "ca5c370bb45359fdc83b23b881ad0b5280fa24ed", 
+                    "title": "[Backport of 43846 to 14_0_X] Primary vertex reconstruction: update configuration handling", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44079", 
+                    "number": "44079", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fabiocos"
+                }, 
+                {
+                    "hash": "fe59acf98512479ca1668f25c948a59eb361234c", 
+                    "title": "HLT menu development for 14_0_X (2/N)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44074", 
+                    "number": "44074", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-tsg-storm"
+                }, 
+                {
+                    "hash": "4698f3b5ddd64473925a5f64b5ee13753a980ab8", 
+                    "title": "[14_0_X] Update LHCInfoProducer to use LHCInfoCombined", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/43993", 
+                    "number": "43993", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "francescobrivio"
+                }, 
+                {
+                    "hash": "85c769bdb8977dadbe4df444becebfea3c09d11b", 
+                    "title": "Correct the FindClus block size [14.0.x]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44082", 
+                    "number": "44082", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "fwyzard"
+                }, 
+                {
+                    "hash": "f97a1a97fbb235f1a60cf18dfd2b049f48aec640", 
+                    "title": "Move relval2023 to point to Fake2 for HLT [140X]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44027", 
+                    "number": "44027", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "cms-tsg-storm"
+                }, 
+                {
+                    "hash": "3a3cf3e213f08cbd8f42d7f1f613606123f813e0", 
+                    "title": "Mu pog nano aod v2 backport", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44043", 
+                    "number": "44043", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "rbhattacharya04"
+                }, 
+                {
+                    "hash": "c10309d00a2377f3694caf51e6a199568da560ca", 
+                    "title": "print total number of Paths in `hltIntegrationTests` [`14_0_X`]", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44056", 
+                    "number": "44056", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "missirol"
+                }, 
+                {
+                    "hash": "3908b8e2d6d09265ef849f92aad40fe22e11419a", 
+                    "title": "[Phase-2 L1T 14_0_X] small fixes for RCT cluster emulation", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/43989", 
+                    "number": "43989", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "pallabidas"
+                }, 
+                {
+                    "hash": "f0ab643993f8535387a5190e882bc8f1c89b6197", 
+                    "title": "Lepton time-life info for NanoAOD and Nano branches from ValueMap of elaborated types (14_0_X)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44040", 
+                    "number": "44040", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mbluj"
+                }, 
+                {
+                    "hash": "7aa69de0e431e966a2775dac420dee3a6d6ca73c", 
+                    "title": "Run3-gex176F Backport the correction to 2024 Geometry to CMSSW_14_0_X due to RPC detector (backport of #44065 and #44093)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44094", 
+                    "number": "44094", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "bsunanda"
+                }, 
+                {
+                    "hash": "f9c59b566e60763d0caafc34d36cceffdb26e1fa", 
+                    "title": "[14_0_X] Jet phi variable in L1 correction", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44086", 
+                    "number": "44086", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "theochatzis"
+                }, 
+                {
+                    "hash": "0a9edbcb03bb5e10ab30d06150d396898bd9bce4", 
+                    "title": "[14.0.X] Update Run3 HLT GT with PPS conditions for 2024 data-taking", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44045", 
+                    "number": "44045", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "saumyaphor4252"
+                }, 
+                {
+                    "hash": "a701f861a350f4eb334cf397fcf1a95d1017a631", 
+                    "title": "[14.0.X] Update 2024 MC GTs with the L1 menu", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44080", 
+                    "number": "44080", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "b143e0772f4acd0d3b9cdb2e546d687d33e29a29", 
+                    "title": "[14.0.X] add failsafes for protecting the alpaka customization against `Fake` HLT menus", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44253", 
+                    "number": "44253", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "mmusich"
+                }, 
+                {
+                    "hash": "6df8b30b79a24122819fdcc62a501779dfae73a0", 
+                    "title": "[14.0.X] Remove unnecessary ESProducer from LegacyPFClusterProducer", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44071", 
+                    "number": "44071", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "jsamudio"
+                }, 
+                {
+                    "hash": "ad9351c29275fa919df303597c6032622657658f", 
+                    "title": "[GEM][bug fix][backport] avoid the segmentation fault caused by the 2024 GEMGeometry", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44089", 
+                    "number": "44089", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "yeckang"
+                }, 
+                {
+                    "hash": "1b1e5e1dcd36fb117249d0363d90e6ecb88b6ba5", 
+                    "title": "[14_0_X] Updates for 2024 Wfs (PR Testing, IBs, Patatrack, inputs)", 
+                    "url": "https://github.com/cms-sw/cmssw/pull/44076", 
+                    "number": "44076", 
+                    "is_merge_commit": false, 
+                    "from_merge_commit": false, 
+                    "author_login": "AdrianoDee"
+                }
+            ], 
+            "base_branch": "CMSSW_14_0_X", 
+            "invalid_includes": [], 
+            "builds": [], 
+            "material_budget_v2": "not-found", 
+            "check-headers": "not-found", 
+            "static_checks_v2": "not-found", 
+            "valgrind": "not-found", 
+            "material_budget": "not-found", 
+            "dupDict": [], 
+            "static_checks_failures": "not-found", 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "inProgress": false, 
+            "addons": [], 
+            "hlt_tests": "not-found"
+        }, 
+        {
+            "comp_baseline_state": "errors", 
+            "python3_tests": [], 
+            "tests_archs": [], 
+            "cmsdist_merged_prs": {}, 
+            "cmsdist_compared_tags": {}, 
+            "cmsdistTags": {
+                "el9_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-02-25-2300/el9_amd64_gcc12", 
+                "el8_amd64_gcc12": "IB/CMSSW_14_0_MULTIARCHS_X_2024-02-25-2300/el8_amd64_gcc12"
+            }, 
+            "next_ib": false, 
+            "RVExceptions": null, 
+            "fwlite": [], 
+            "profiling": "not-found", 
+            "crab_tests": "not-found", 
+            "compared_tags": "CMSSW_14_0_MULTIARCHS_X_2024-02-25-2300-->CMSSW_14_0_MULTIARCHS_X_2024-02-25-2300", 
+            "dqm_tests": "not-found", 
+            "utests": [], 
+            "ib_date": "2024-02-25-2300-0000", 
+            "relvals": [], 
+            "igprof": "not-found", 
+            "release_queue": "CMSSW_14_0_MULTIARCHS_X", 
+            "release_name": "CMSSW_14_0_MULTIARCHS_X_2024-02-25-2300", 
+            "comp_baseline": "not-found", 
+            "gpu_utests": [], 
+            "material_budget_comparison": "not-found", 
+            "merged_prs": [], 
+            "base_branch": "CMSSW_14_0_X", 
+            "invalid_includes": [], 
+            "builds": [], 
+            "material_budget_v2": "not-found", 
+            "check-headers": "not-found", 
+            "static_checks_v2": "not-found", 
+            "valgrind": "not-found", 
+            "material_budget": "not-found", 
+            "dupDict": [], 
+            "static_checks_failures": "not-found", 
+            "static_checks": "not-found", 
+            "isIB": true, 
+            "inProgress": false, 
+            "addons": [], 
+            "hlt_tests": "not-found"
+        }
+    ]
+}
