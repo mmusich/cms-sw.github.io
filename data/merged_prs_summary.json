@@ -11483,7 +11483,7 @@
                 ], 
                 "reco_event_loop": {
                     "status": "passed", 
-                    "data": "el8_amd64_gcc11/profiling/136.889/sorted_RES_CPU_step3.txt"
+                    "data": "el8_amd64_gcc11/profiling/11834.21/sorted_RES_CPU_step3.txt"
                 }, 
                 "profiling": "found", 
                 "crab_tests": "passed", 
