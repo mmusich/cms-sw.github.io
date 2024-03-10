@@ -60,7 +60,7 @@
         }, 
         "el8_amd64_gcc11": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_12_6_X_2024-03-03-0000"
+            "latest_IB": "CMSSW_12_6_X_2024-03-10-0000"
         }, 
         "slc7_amd64_gcc10": {
             "status": "unknown", 
@@ -221,7 +221,7 @@
         }, 
         "slc7_amd64_gcc11": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_13_2_X_2024-03-03-0000"
+            "latest_IB": "CMSSW_13_2_X_2024-03-10-0000"
         }, 
         "el8_aarch64_gcc11": {
             "status": "unknown", 
