@@ -1,4 +1,5 @@
 {
+    "CMSSW_13_0_X_2024-03-10-0000": "el8_amd64_gcc11", 
     "CMSSW_14_0_X_2024-03-04-1100": "el8_amd64_gcc12,slc7_amd64_gcc12", 
     "CMSSW_14_1_GPU_X_2024-03-05-2300": "el8_amd64_gcc12", 
     "CMSSW_14_1_CLANG_X_2024-03-03-2300": "el8_amd64_gcc12", 
@@ -48,7 +49,7 @@
     "CMSSW_14_0_X_2024-03-08-2300": "el8_aarch64_gcc12,el8_amd64_gcc12,el8_ppc64le_gcc12,el9_amd64_gcc12,slc7_amd64_gcc12", 
     "CMSSW_14_1_NONLTO_X_2024-03-05-2300": "el8_amd64_gcc12", 
     "CMSSW_14_1_NONLTO_X_2024-03-04-2300": "el8_amd64_gcc12", 
-    "CMSSW_14_0_GPU_X_2024-03-03-2300": "el8_amd64_gcc12", 
+    "CMSSW_14_1_CUDART_X_2024-03-06-2300": "el8_amd64_gcc12", 
     "CMSSW_12_6_X_2024-03-03-2300": "el8_aarch64_gcc11", 
     "CMSSW_13_3_X_2024-03-03-0000": "el8_amd64_gcc12,slc7_amd64_gcc12", 
     "CMSSW_14_1_X_2024-03-05-1100": "el8_amd64_gcc12,slc7_amd64_gcc12", 
@@ -133,7 +134,7 @@
     "CMSSW_14_1_X_2024-03-07-1100": "el8_amd64_gcc12,slc7_amd64_gcc12", 
     "CMSSW_14_1_DEVEL_X_2024-03-08-2300": "el8_amd64_gcc12", 
     "CMSSW_13_3_X_2024-03-03-2300": "el8_amd64_gcc12,el9_amd64_gcc12,slc7_amd64_gcc12", 
-    "CMSSW_14_1_CUDART_X_2024-03-06-2300": "el8_amd64_gcc12", 
+    "CMSSW_14_0_GPU_X_2024-03-03-2300": "el8_amd64_gcc12", 
     "CMSSW_14_1_X_2024-03-07-2300": "el8_aarch64_gcc12,el8_amd64_gcc12,el8_ppc64le_gcc12,el9_aarch64_gcc12,el9_amd64_gcc12,slc7_amd64_gcc12", 
     "CMSSW_14_1_X_2024-03-06-2300": "el8_aarch64_gcc12,el8_amd64_gcc12,el8_ppc64le_gcc12,el9_amd64_gcc12,slc7_amd64_gcc12", 
     "CMSSW_14_1_X_2024-03-03-0000": "el8_amd64_gcc12,slc7_amd64_gcc12", 

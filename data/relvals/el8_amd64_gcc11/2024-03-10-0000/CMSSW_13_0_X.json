@@ -1,5 +1,148 @@
 [
     {
+        "exitcode": 16640,
+        "id": "10804.31",
+        "known_error": 0,
+        "name": "SingleGammaPt10+2018_photonDRN",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 25
+            },
+            {
+                "errors": 1,
+                "status": "FAILED",
+                "warnings": 36
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "107.0",
+        "known_error": 0,
+        "name": "QQH120Inv",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 4
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 16
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 25
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "125.0",
+        "known_error": 0,
+        "name": "ZPrime5000Dijet",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 11
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 37
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.105",
+        "known_error": 0,
+        "name": "RunEGamma2023C",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 281
+            },
+            {
+                "errors": 7,
+                "status": "PASSED",
+                "warnings": 394
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "144.6",
+        "known_error": 0,
+        "name": "MinimumBias2010A",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 398
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "2018.1",
+        "known_error": 0,
+        "name": "TTbarFS_13_UP18",
+        "steps": [
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 12
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 13
+            }
+        ]
+    },
+    {
         "exitcode": 0,
         "id": "2500.511",
         "known_error": 0,
@@ -19,6 +162,52 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "2500.601",
+        "known_error": 0,
+        "name": "NANOmc126X",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 35,
+                "status": "PASSED",
+                "warnings": 589
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "4006.0",
+        "known_error": 0,
+        "name": "SingleElectronFlatPt1To100",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 39
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 146
             }
         ]
     }
