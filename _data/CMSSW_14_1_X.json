@@ -273,6 +273,12 @@
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/sun/14.1-sun-00/CMSSW_14_1_X_2024-03-10-0000/addOnTests.log", 
                     "details": {}
+                }, 
+                {
+                    "arch": "slc7_amd64_gcc12", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc12/www/sun/14.1-sun-00/CMSSW_14_1_X_2024-03-10-0000/addOnTests.log", 
+                    "details": {}
                 }
             ], 
             "hlt_tests": "inprogress"

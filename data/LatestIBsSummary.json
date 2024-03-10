@@ -162,7 +162,7 @@
     "CMSSW_13_0_HeavyIon_X": {
         "el8_amd64_gcc11": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_13_0_HeavyIon_X_2024-03-03-0000"
+            "latest_IB": "CMSSW_13_0_HeavyIon_X_2024-03-10-0000"
         }
     }, 
     "CMSSW_14_1_MULTIARCHS_X": {
