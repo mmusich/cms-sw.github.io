@@ -91,12 +91,12 @@
             "ib_date": "2024-03-10-0000-0000", 
             "relvals": [
                 {
-                    "done": false, 
+                    "done": true, 
                     "arch": "el8_amd64_gcc12", 
                     "passed": false, 
                     "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/sun/14.1.ROOT626-sun-00/CMSSW_14_1_ROOT626_X_2024-03-10-0000/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 765, 
+                        "num_passed": 764, 
                         "known_failed": 0, 
                         "num_failed": 1082
                     }
