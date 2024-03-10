@@ -1,0 +1,20 @@
+[
+    {
+        "exitcode": 0,
+        "id": "573.0",
+        "known_error": 0,
+        "name": "sherpa_ttbar_2j_MENLOPS_13TeV_MASTER_ExtGen+sherpa_ttbar_2j_MENLOPS_13TeV_MASTER_ExtGen+HARVESTGEN",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 65
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    }
+]
