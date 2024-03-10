@@ -12505,7 +12505,7 @@
                 "comp_baseline_state": "errors", 
                 "reco_gpu_mods": {
                     "status": "passed", 
-                    "data": "/el8_amd64_gcc12/23834.59621/step3_gpu_nsys.txt"
+                    "data": "/el8_amd64_gcc12/11834.59621/step3_gpu_nsys.txt"
                 }, 
                 "python3_tests": [], 
                 "tests_archs": [
