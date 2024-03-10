@@ -4911,6 +4911,62 @@
     },
     {
         "exitcode": 0,
+        "id": "141.045",
+        "known_error": 0,
+        "name": "RunDisplacedJet2023D",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 18,
+                "status": "PASSED",
+                "warnings": 536
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 575
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.047",
+        "known_error": 0,
+        "name": "RunTau2023D",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 232
+            },
+            {
+                "errors": 9,
+                "status": "PASSED",
+                "warnings": 363
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "141.048",
         "known_error": 0,
         "name": "RunMuonEG2023D",
@@ -4990,6 +5046,34 @@
                 "errors": 88,
                 "status": "PASSED",
                 "warnings": 2
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "142.0",
+        "known_error": 0,
+        "name": "RunHIPhysicsRawPrime2023A",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 295
+            },
+            {
+                "errors": 303,
+                "status": "PASSED",
+                "warnings": 1251
+            },
+            {
+                "errors": 73,
+                "status": "PASSED",
+                "warnings": 1
             }
         ]
     },
@@ -6460,6 +6544,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 22
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "517.0",
+        "known_error": 0,
+        "name": "VHToHtt_NLO_Pow_13TeV_py8_taupinu",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 31
             },
             {
                 "errors": 0,
@@ -12985,6 +13092,34 @@
     },
     {
         "exitcode": 0,
+        "id": "11846.0",
+        "known_error": 0,
+        "name": "ZEE_14+2021PU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 24
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 275
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 6
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "11846.19",
         "known_error": 0,
         "name": "ZEE_14+2021PU_ecalDeepSC",
@@ -13593,6 +13728,34 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 8
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "25034.114",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2026D98PU_OTInefficiency10PC",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 59
+            },
+            {
+                "errors": 31,
+                "status": "PASSED",
+                "warnings": 4
             }
         ]
     },
@@ -14657,6 +14820,34 @@
     },
     {
         "exitcode": 0,
+        "id": "250202.17",
+        "known_error": 0,
+        "name": "TTbar13TeVPUpmx2017",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 213517,
+                "status": "PASSED",
+                "warnings": 32
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 244
+            },
+            {
+                "errors": 22,
+                "status": "PASSED",
+                "warnings": 6
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "250202.172",
         "known_error": 0,
         "name": "TTbar_13UP17",
@@ -14876,6 +15067,34 @@
                 "errors": 2,
                 "status": "PASSED",
                 "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "250204.17",
+        "known_error": 0,
+        "name": "QQH1352T_13UP17",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 219567,
+                "status": "PASSED",
+                "warnings": 35
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 364
+            },
+            {
+                "errors": 22,
+                "status": "PASSED",
+                "warnings": 6
             }
         ]
     },
