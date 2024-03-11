@@ -4750,6 +4750,34 @@
     },
     {
         "exitcode": 0,
+        "id": "141.035",
+        "known_error": 0,
+        "name": "RunDisplacedJet2023C",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 326
+            },
+            {
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 409
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "141.036",
         "known_error": 0,
         "name": "RunEGamma2023C",
@@ -5002,6 +5030,34 @@
     },
     {
         "exitcode": 0,
+        "id": "141.104",
+        "known_error": 0,
+        "name": "RunDisplacedJet2023C",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 217
+            },
+            {
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 272
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "141.105",
         "known_error": 0,
         "name": "RunEGamma2023C",
@@ -5020,6 +5076,62 @@
                 "errors": 15,
                 "status": "PASSED",
                 "warnings": 369
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.11",
+        "known_error": 0,
+        "name": "RunHcalNZS2023C",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 360
+            },
+            {
+                "errors": 21,
+                "status": "PASSED",
+                "warnings": 481
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.112",
+        "known_error": 0,
+        "name": "RunCommissioning2023C",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 109
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 429
             },
             {
                 "errors": 30,
