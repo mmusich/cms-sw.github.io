@@ -1567,6 +1567,72 @@
     },
     {
         "exitcode": 0,
+        "id": "8.0",
+        "known_error": 0,
+        "name": "BeamHalo",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 12
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 452
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "8.1",
+        "known_error": 0,
+        "name": "BeamHalo_UP18",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 33
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 40
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "8.2",
         "known_error": 0,
         "name": "BeamHalo_UP21",
@@ -3919,6 +3985,34 @@
                 "errors": 26,
                 "status": "PASSED",
                 "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "134.813",
+        "known_error": 0,
+        "name": "RunCosmics2015C",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 116,
+                "status": "PASSED",
+                "warnings": 316
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 41
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -12005,6 +12099,29 @@
     },
     {
         "exitcode": 0,
+        "id": "140.53",
+        "known_error": 0,
+        "name": "RunHI2011",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 310
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 4
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "140.54",
         "known_error": 0,
         "name": "RunPA2013",
@@ -12426,6 +12543,90 @@
             },
             {
                 "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.008505",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoPixelOnlyTripletsCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 129
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.008511",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoECALOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 130
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.008521",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoHCALOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 8,
+                "status": "PASSED",
+                "warnings": 153
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 29
+            },
+            {
+                "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
             }
@@ -13482,6 +13683,29 @@
                 "errors": 1,
                 "status": "PASSED",
                 "warnings": 999
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.902",
+        "known_error": 0,
+        "name": "RunUPC2023",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 218
             },
             {
                 "errors": 2,
@@ -14967,6 +15191,29 @@
     },
     {
         "exitcode": 0,
+        "id": "514.0",
+        "known_error": 0,
+        "name": "GGToHgg_NLO_Pow_13TeV_py8",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 30
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "515.0",
         "known_error": 0,
         "name": "DYTollJets_LO_Mad_13TeV_py8_taupinu",
@@ -15520,6 +15767,29 @@
     },
     {
         "exitcode": 0,
+        "id": "548.0",
+        "known_error": 0,
+        "name": "TTbar_Pow_LHE_13TeV",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 4
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 23
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "551.0",
         "known_error": 0,
         "name": "TTbar012Jets_NLO_Mad_13TeV_py8",
@@ -15543,6 +15813,52 @@
     },
     {
         "exitcode": 0,
+        "id": "552.0",
+        "known_error": 0,
+        "name": "VHToHtt_NLO_Pow_13TeV_py8",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 38
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "554.0",
+        "known_error": 0,
+        "name": "VBFToH4l_NLO_Pow_JHU_13TeV_py8",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 36
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "555.0",
         "known_error": 0,
         "name": "DYTollJets_NLO_Mad_13TeV_py8",
@@ -15556,6 +15872,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 19
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "556.0",
+        "known_error": 0,
+        "name": "TTbar_NLO_Pow_13TeV_py8",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 22
             },
             {
                 "errors": 0,
@@ -16163,6 +16502,39 @@
     },
     {
         "exitcode": 0,
+        "id": "1030.0",
+        "known_error": 0,
+        "name": "RunHLTPhy2017B",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 96
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 27
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1040.0",
         "known_error": 0,
         "name": "RunZeroBias2017F",
@@ -16502,6 +16874,29 @@
     },
     {
         "exitcode": 0,
+        "id": "1301.17",
+        "known_error": 0,
+        "name": "ProdMinBias_13UP17",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 14
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 22
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 20
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "1302.0",
         "known_error": 0,
         "name": "ProdTTbar_13",
@@ -16520,6 +16915,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 30
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "1302.17",
+        "known_error": 0,
+        "name": "ProdTTbar_13UP17",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 7
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 17
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 28
             }
         ]
     },
@@ -19808,6 +20226,29 @@
     },
     {
         "exitcode": 0,
+        "id": "2500.211",
+        "known_error": 0,
+        "name": "NANOdata124Xrun3",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 118
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "2500.3",
         "known_error": 0,
         "name": "NANOmc130X",
@@ -21461,6 +21902,118 @@
     },
     {
         "exitcode": 0,
+        "id": "10824.501",
+        "known_error": 0,
+        "name": "TTbar_13+2018_Patatrack_PixelOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 39
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10824.505",
+        "known_error": 0,
+        "name": "TTbar_13+2018_Patatrack_PixelOnlyTripletsCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 29
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 1
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10824.511",
+        "known_error": 0,
+        "name": "TTbar_13+2018_Patatrack_ECALOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 35
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10824.521",
+        "known_error": 0,
+        "name": "TTbar_13+2018_Patatrack_HCALOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 43
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 15
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "10824.6",
         "known_error": 0,
         "name": "TTbar_13+2018_heCollapse",
@@ -21646,6 +22199,62 @@
                 "errors": 8,
                 "status": "PASSED",
                 "warnings": 28
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10842.501",
+        "known_error": 0,
+        "name": "ZMM_13+2018_Patatrack_PixelOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 17
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 9
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "10842.505",
+        "known_error": 0,
+        "name": "ZMM_13+2018_Patatrack_PixelOnlyTripletsCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 20
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 2
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -23086,6 +23695,34 @@
     },
     {
         "exitcode": 0,
+        "id": "12434.501",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_PixelOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 36
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 3
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "12434.505",
         "known_error": 0,
         "name": "TTbar_14TeV+2023_Patatrack_PixelOnlyTripletsCPU",
@@ -23107,6 +23744,62 @@
             },
             {
                 "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.511",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_ECALOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 46
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 18
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.521",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_HCALOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 103
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 21
+            },
+            {
+                "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
             }
@@ -23137,6 +23830,34 @@
                 "errors": 25,
                 "status": "PASSED",
                 "warnings": 1
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12450.501",
+        "known_error": 0,
+        "name": "ZMM_14+2023_Patatrack_PixelOnlyCPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 62
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
