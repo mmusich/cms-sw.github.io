@@ -5117,6 +5117,34 @@
     },
     {
         "exitcode": 0,
+        "id": "141.041",
+        "known_error": 0,
+        "name": "RunMuon2023D",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 22,
+                "status": "PASSED",
+                "warnings": 202
+            },
+            {
+                "errors": 13,
+                "status": "PASSED",
+                "warnings": 402
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "141.042",
         "known_error": 0,
         "name": "RunZeroBias2023D",
@@ -5173,6 +5201,34 @@
     },
     {
         "exitcode": 0,
+        "id": "141.044",
+        "known_error": 0,
+        "name": "RunJetMET2023D",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 14,
+                "status": "PASSED",
+                "warnings": 106
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 398
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "141.045",
         "known_error": 0,
         "name": "RunDisplacedJet2023D",
@@ -5191,6 +5247,34 @@
                 "errors": 13,
                 "status": "PASSED",
                 "warnings": 363
+            },
+            {
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.046",
+        "known_error": 0,
+        "name": "RunEGamma2023D",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 20,
+                "status": "PASSED",
+                "warnings": 81
+            },
+            {
+                "errors": 10,
+                "status": "PASSED",
+                "warnings": 443
             },
             {
                 "errors": 26,
