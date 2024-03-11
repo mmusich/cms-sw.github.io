@@ -1,6 +1,34 @@
 [
     {
         "exitcode": 0,
+        "id": "141.008506",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoPixelOnlyTripletsGPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 14,
+                "status": "PASSED",
+                "warnings": 206
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 101
+            },
+            {
+                "errors": 4,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "141.008507",
         "known_error": 0,
         "name": "Run3-2023_JetMET2023B_RecoPixelOnlyTripletsGPU_Validation",
@@ -22,6 +50,57 @@
             },
             {
                 "errors": 4,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.008508",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoPixelOnlyTripletsGPU_Profiling",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 16,
+                "status": "PASSED",
+                "warnings": 234
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 34
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.008512",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoECALOnlyGPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 14,
+                "status": "PASSED",
+                "warnings": 84
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 540
+            },
+            {
+                "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
             }
@@ -80,6 +159,34 @@
     },
     {
         "exitcode": 0,
+        "id": "141.008522",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoHCALOnlyGPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 165
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 102
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "141.008523",
         "known_error": 0,
         "name": "Run3-2023_JetMET2023B_RecoHCALOnlyGPU_Validation",
@@ -103,6 +210,29 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "141.008524",
+        "known_error": 0,
+        "name": "Run3-2023_JetMET2023B_RecoHCALOnlyGPU_Profiling",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 14,
+                "status": "PASSED",
+                "warnings": 204
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 12
             }
         ]
     },
@@ -136,6 +266,85 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.502",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_PixelOnlyGPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 246
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 29
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.503",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_PixelOnlyGPU_Validation",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 127
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 31
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.504",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_PixelOnlyGPU_Profiling",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 137
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 4
             }
         ]
     },
@@ -276,6 +485,108 @@
     },
     {
         "exitcode": 0,
+        "id": "12434.514",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_ECALOnlyGPU_Profiling",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 155
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.522",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_HCALOnlyGPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 144
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 47
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.523",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_HCALOnlyGPU_Validation",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 160
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 50
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.524",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_HCALOnlyGPU_Profiling",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 193
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "12434.582",
         "known_error": 0,
         "name": "TTbar_14TeV+2023_Patatrack_AllGPU",
@@ -322,6 +633,62 @@
                 "errors": 0,
                 "status": "PASSED",
                 "warnings": 78
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.586",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_AllTripletsGPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 240
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 76
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.587",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_AllTripletsGPU_Validation",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 230
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 84
             },
             {
                 "errors": 17,
@@ -495,6 +862,29 @@
                 "errors": 17,
                 "status": "PASSED",
                 "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12450.504",
+        "known_error": 0,
+        "name": "ZMM_14+2023_Patatrack_PixelOnlyGPU_Profiling",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 130
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 4
             }
         ]
     },
