@@ -11,10 +11,10 @@
             "latest_IB": "CMSSW_14_1_GEANT4_X_2024-03-03-2300"
         }
     }, 
-    "CMSSW_14_1_SKYLAKEAVX512_X": {
-        "el8_amd64_gcc12": {
+    "CMSSW_13_1_GPU_X": {
+        "el8_amd64_gcc11": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_14_1_SKYLAKEAVX512_X_2024-03-03-2300"
+            "latest_IB": "CMSSW_13_1_GPU_X_2024-03-10-2300"
         }
     }, 
     "CMSSW_8_0_X": {
@@ -47,10 +47,6 @@
     }, 
     "CMSSW_12_6_X": {
         "el8_aarch64_gcc11": {
-            "status": "unknown", 
-            "latest_IB": "CMSSW_12_6_X_2024-03-03-2300"
-        }, 
-        "el8_ppc64le_gcc11": {
             "status": "unknown", 
             "latest_IB": "CMSSW_12_6_X_2024-03-03-2300"
         }, 
@@ -150,7 +146,13 @@
         }, 
         "el8_aarch64_gcc12": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_14_1_X_2024-03-03-2300"
+            "latest_IB": "CMSSW_14_1_X_2024-03-04-2300"
+        }
+    }, 
+    "CMSSW_14_1_SKYLAKEAVX512_X": {
+        "el8_amd64_gcc12": {
+            "status": "unknown", 
+            "latest_IB": "CMSSW_14_1_SKYLAKEAVX512_X_2024-03-03-2300"
         }
     }, 
     "CMSSW_13_0_HeavyIon_X": {
@@ -295,7 +297,7 @@
     "CMSSW_13_0_X": {
         "el9_amd64_gcc11": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_13_0_X_2024-03-03-2300"
+            "latest_IB": "CMSSW_13_0_X_2024-03-07-2300"
         }, 
         "el8_aarch64_gcc11": {
             "status": "unknown", 
@@ -353,7 +355,7 @@
         }, 
         "el8_ppc64le_gcc12": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_14_0_X_2024-03-03-2300"
+            "latest_IB": "CMSSW_14_0_X_2024-03-04-2300"
         }, 
         "el9_amd64_gcc12": {
             "status": "unknown", 
