@@ -2975,6 +2975,26 @@
     },
     {
         "exitcode": 0,
+        "id": "136.828",
+        "known_error": 0,
+        "name": "RunHLTPhy2017F",
+        "steps": [
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            },
+            {
+                "status": "PASSED"
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "136.831",
         "known_error": 0,
         "name": "RunJetHT2017F",
@@ -5361,16 +5381,24 @@
         "name": "RunMuon2023D",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 26,
+                "status": "PASSED",
+                "warnings": 350
             },
             {
-                "status": "PASSED"
+                "errors": 21,
+                "status": "PASSED",
+                "warnings": 449
             },
             {
-                "status": "PASSED"
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -5409,16 +5437,24 @@
         "name": "RunJetMET2023D",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 14,
+                "status": "PASSED",
+                "warnings": 395
             },
             {
-                "status": "PASSED"
+                "errors": 19,
+                "status": "PASSED",
+                "warnings": 213
             },
             {
-                "status": "PASSED"
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -5457,16 +5493,24 @@
         "name": "RunEGamma2023D",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 18,
+                "status": "PASSED",
+                "warnings": 443
             },
             {
-                "status": "PASSED"
+                "errors": 24,
+                "status": "PASSED",
+                "warnings": 210
             },
             {
-                "status": "PASSED"
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -5477,16 +5521,24 @@
         "name": "RunTau2023D",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 14,
+                "status": "PASSED",
+                "warnings": 174
             },
             {
-                "status": "PASSED"
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 846
             },
             {
-                "status": "PASSED"
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -5497,16 +5549,24 @@
         "name": "RunMuonEG2023D",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 5,
+                "status": "PASSED",
+                "warnings": 373
             },
             {
-                "status": "PASSED"
+                "errors": 19,
+                "status": "PASSED",
+                "warnings": 471
             },
             {
-                "status": "PASSED"
+                "errors": 30,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -5573,16 +5633,24 @@
         "name": "RunHIPhysicsRawPrime2023A",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 3,
+                "status": "PASSED",
+                "warnings": 242
             },
             {
-                "status": "PASSED"
+                "errors": 76,
+                "status": "PASSED",
+                "warnings": 915
             },
             {
-                "status": "PASSED"
+                "errors": 73,
+                "status": "PASSED",
+                "warnings": 1
             }
         ]
     },
@@ -10766,13 +10834,19 @@
         "name": "NANOmc106Xul17v2",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 21,
+                "status": "PASSED",
+                "warnings": 860
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
@@ -14906,13 +14980,19 @@
         "name": "ZMM_13",
         "steps": [
             {
-                "status": "PASSED"
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 202
             },
             {
-                "status": "PASSED"
+                "errors": 12,
+                "status": "PASSED",
+                "warnings": 0
             },
             {
-                "status": "PASSED"
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
             }
         ]
     },
