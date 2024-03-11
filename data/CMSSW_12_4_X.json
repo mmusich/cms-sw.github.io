@@ -56,16 +56,16 @@
             "comp_baseline_state": "errors", 
             "python3_tests": [], 
             "tests_archs": [
-                "slc7_amd64_gcc10", 
-                "el8_aarch64_gcc10"
+                "el8_aarch64_gcc10", 
+                "slc7_amd64_gcc10"
             ], 
             "cmsdist_merged_prs": {
-                "slc7_amd64_gcc10": [], 
-                "el8_aarch64_gcc10": []
+                "el8_aarch64_gcc10": [], 
+                "slc7_amd64_gcc10": []
             }, 
             "cmsdist_compared_tags": {
-                "slc7_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-07-2300/slc7_amd64_gcc10..IB/CMSSW_12_4_X_2024-03-10-2300/slc7_amd64_gcc10", 
-                "el8_aarch64_gcc10": "IB/CMSSW_12_4_X_2024-03-10-2300/el8_aarch64_gcc10..IB/CMSSW_12_4_X_2024-03-10-2300/el8_aarch64_gcc10"
+                "el8_aarch64_gcc10": "IB/CMSSW_12_4_X_2024-03-10-2300/el8_aarch64_gcc10..IB/CMSSW_12_4_X_2024-03-10-2300/el8_aarch64_gcc10", 
+                "slc7_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-07-2300/slc7_amd64_gcc10..IB/CMSSW_12_4_X_2024-03-10-2300/slc7_amd64_gcc10"
             }, 
             "cmsdistTags": {
                 "slc7_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-10-2300/slc7_amd64_gcc10", 
@@ -93,7 +93,19 @@
                 }
             ], 
             "ib_date": "2024-03-10-2300-0000", 
-            "relvals": [], 
+            "relvals": [
+                {
+                    "done": false, 
+                    "arch": "el8_aarch64_gcc10", 
+                    "passed": false, 
+                    "file": "/data/sdt/buildlogs/el8_aarch64_gcc10/www/sun/12.4-sun-23/CMSSW_12_4_X_2024-03-10-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
+                    "details": {
+                        "num_passed": 0, 
+                        "known_failed": 0, 
+                        "num_failed": 7
+                    }
+                }
+            ], 
             "igprof": "not-found", 
             "release_queue": "CMSSW_12_4_X", 
             "release_name": "CMSSW_12_4_X_2024-03-10-2300", 
@@ -129,11 +141,11 @@
             "material_budget": "not-found", 
             "dupDict": [
                 {
-                    "arch": "slc7_amd64_gcc10", 
+                    "arch": "el8_aarch64_gcc10", 
                     "passed": "passed"
                 }, 
                 {
-                    "arch": "el8_aarch64_gcc10", 
+                    "arch": "slc7_amd64_gcc10", 
                     "passed": "passed"
                 }
             ], 
@@ -141,7 +153,14 @@
             "static_checks": "not-found", 
             "isIB": true, 
             "inProgress": false, 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "el8_aarch64_gcc10", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el8_aarch64_gcc10/www/sun/12.4-sun-23/CMSSW_12_4_X_2024-03-10-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "hlt_tests": "inprogress"
         }, 
         {
