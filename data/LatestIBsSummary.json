@@ -134,7 +134,7 @@
         }, 
         "el8_ppc64le_gcc12": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_14_1_X_2024-03-03-2300"
+            "latest_IB": "CMSSW_14_1_X_2024-03-04-2300"
         }, 
         "el9_amd64_gcc12": {
             "status": "unknown", 
@@ -265,7 +265,7 @@
     "CMSSW_14_1_DEVEL_X": {
         "el8_amd64_gcc12": {
             "status": "unknown", 
-            "latest_IB": "CMSSW_14_1_DEVEL_X_2024-03-03-2300"
+            "latest_IB": "CMSSW_14_1_DEVEL_X_2024-03-04-2300"
         }
     }, 
     "CMSSW_14_1_UBSAN_X": {

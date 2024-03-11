@@ -143,7 +143,14 @@
             "static_checks": "not-found", 
             "isIB": true, 
             "inProgress": false, 
-            "addons": [], 
+            "addons": [
+                {
+                    "arch": "el8_aarch64_gcc11", 
+                    "passed": true, 
+                    "file": "/data/sdt/buildlogs/el8_aarch64_gcc11/www/sun/12.6-sun-23/CMSSW_12_6_X_2024-03-10-2300/addOnTests.log", 
+                    "details": {}
+                }
+            ], 
             "hlt_tests": "inprogress"
         }, 
         {
