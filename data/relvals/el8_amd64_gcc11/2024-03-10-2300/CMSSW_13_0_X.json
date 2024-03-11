@@ -4304,6 +4304,34 @@
     },
     {
         "exitcode": 0,
+        "id": "140.069",
+        "known_error": 0,
+        "name": "RunMuonEG2022D",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 53
+            },
+            {
+                "errors": 11,
+                "status": "PASSED",
+                "warnings": 858
+            },
+            {
+                "errors": 2,
+                "status": "PASSED",
+                "warnings": 5
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
         "id": "140.102",
         "known_error": 0,
         "name": "RunBTagMu2022D",
@@ -10478,6 +10506,39 @@
                 "errors": 8,
                 "status": "PASSED",
                 "warnings": 38
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "11024.6",
+        "known_error": 0,
+        "name": "TTbar_13+2018PU_heCollapse",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 26
+            },
+            {
+                "errors": 1,
+                "status": "PASSED",
+                "warnings": 355
+            },
+            {
+                "errors": 22,
+                "status": "PASSED",
+                "warnings": 6
+            },
+            {
+                "errors": 9,
+                "status": "PASSED",
+                "warnings": 24
             }
         ]
     },
