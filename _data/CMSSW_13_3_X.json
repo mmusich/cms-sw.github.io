@@ -93,7 +93,7 @@
             "igprof": "found", 
             "reco_event_loop": {
                 "status": "passed", 
-                "data": "el8_amd64_gcc12/profiling/141.103/sorted_RES_CPU_step3.txt"
+                "data": "el8_amd64_gcc12/profiling/11834.21/sorted_RES_CPU_step3.txt"
             }, 
             "profiling": "found", 
             "crab_tests": "passed", 
@@ -159,7 +159,7 @@
                 }
             ], 
             "material_budget_v2": "not-found", 
-            "check-headers": "inprogress", 
+            "check-headers": "passed", 
             "static_checks_v2": "inprogress", 
             "valgrind": "not-found", 
             "material_budget": "not-found", 

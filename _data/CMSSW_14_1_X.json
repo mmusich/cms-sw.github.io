@@ -121,14 +121,17 @@
             "cmsdistTags": {
                 "el8_amd64_gcc12": "IB/CMSSW_14_1_X_2024-03-10-0000/el8_amd64_gcc12"
             }, 
-            "piechart": "inprogress", 
+            "piechart": {
+                "status": "passed", 
+                "data": "el8_amd64_gcc12/11834.21/step3_cpu.resources"
+            }, 
             "flawfinder": "found", 
             "next_ib": false, 
             "RVExceptions": null, 
             "igprof": "inprogress", 
             "reco_event_loop": "inprogress", 
-            "profiling": "inprogress", 
-            "crab_tests": "inprogress", 
+            "profiling": "found", 
+            "crab_tests": "passed", 
             "base_branch": "CMSSW_14_1_X", 
             "compared_tags": "CMSSW_14_1_X_2024-03-10-0000-->CMSSW_14_1_X_2024-03-10-2300", 
             "dqm_tests": "not-found", 
@@ -148,7 +151,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/el8_amd64_gcc12/www/sun/14.1-sun-23/CMSSW_14_1_X_2024-03-10-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 2, 
+                        "num_passed": 4, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -189,7 +192,7 @@
                 }
             ], 
             "material_budget_v2": "not-found", 
-            "check-headers": "inprogress", 
+            "check-headers": "passed", 
             "static_checks_v2": "inprogress", 
             "valgrind": "not-found", 
             "material_budget": "not-found", 
