@@ -168,21 +168,11 @@
             ], 
             "cmsdist_merged_prs": {
                 "el8_amd64_gcc10": [], 
-                "slc7_amd64_gcc10": [
-                    {
-                        "hash": "01a3a03b51d797581359f1c23202e6d59ea17d93", 
-                        "title": "[12_4_X] Added cepgen 1.2.1patch1 to standard CMSSW tools", 
-                        "url": "https://github.com/cms-sw/cmsdist/pull/9040", 
-                        "number": "9040", 
-                        "is_merge_commit": false, 
-                        "from_merge_commit": false, 
-                        "author_login": "forthommel"
-                    }
-                ]
+                "slc7_amd64_gcc10": []
             }, 
             "cmsdist_compared_tags": {
                 "el8_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-07-2300/el8_amd64_gcc10..IB/CMSSW_12_4_X_2024-03-07-2300/el8_amd64_gcc10", 
-                "slc7_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-03-2300/slc7_amd64_gcc10..IB/CMSSW_12_4_X_2024-03-07-2300/slc7_amd64_gcc10"
+                "slc7_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-07-2300/slc7_amd64_gcc10..IB/CMSSW_12_4_X_2024-03-07-2300/slc7_amd64_gcc10"
             }, 
             "cmsdistTags": {
                 "el8_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-07-2300/el8_amd64_gcc10", 
@@ -321,16 +311,13 @@
             "comp_baseline_state": "errors", 
             "python3_tests": [], 
             "tests_archs": [
-                "el8_ppc64le_gcc10", 
-                "slc7_amd64_gcc10"
+                "el8_ppc64le_gcc10"
             ], 
             "cmsdist_merged_prs": {
-                "el8_ppc64le_gcc10": [], 
-                "slc7_amd64_gcc10": []
+                "el8_ppc64le_gcc10": []
             }, 
             "cmsdist_compared_tags": {
-                "el8_ppc64le_gcc10": "IB/CMSSW_12_4_X_2024-03-03-2300/el8_ppc64le_gcc10..IB/CMSSW_12_4_X_2024-03-03-2300/el8_ppc64le_gcc10", 
-                "slc7_amd64_gcc10": "IB/CMSSW_12_4_X_2024-03-03-2300/slc7_amd64_gcc10..IB/CMSSW_12_4_X_2024-03-03-2300/slc7_amd64_gcc10"
+                "el8_ppc64le_gcc10": "IB/CMSSW_12_4_X_2024-03-03-2300/el8_ppc64le_gcc10..IB/CMSSW_12_4_X_2024-03-03-2300/el8_ppc64le_gcc10"
             }, 
             "cmsdistTags": {
                 "el8_ppc64le_gcc10": "IB/CMSSW_12_4_X_2024-03-03-2300/el8_ppc64le_gcc10", 
@@ -345,14 +332,6 @@
             "dqm_tests": "not-found", 
             "utests": [
                 {
-                    "arch": "slc7_amd64_gcc10", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc10/www/sun/12.4-sun-23/CMSSW_12_4_X_2024-03-03-2300/unitTests-summary.log", 
-                    "details": {
-                        "num_fails": "0"
-                    }
-                }, 
-                {
                     "arch": "el8_ppc64le_gcc10", 
                     "passed": "unknown", 
                     "file": "['/data/sdt/buildlogs/el8_ppc64le_gcc10/www/sun/12.4-sun-23/CMSSW_12_4_X_2024-03-03-2300/new/logAnalysis.pkl']", 
@@ -360,19 +339,7 @@
                 }
             ], 
             "ib_date": "2024-03-03-2300-0000", 
-            "relvals": [
-                {
-                    "done": true, 
-                    "arch": "slc7_amd64_gcc10", 
-                    "passed": false, 
-                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc10/www/sun/12.4-sun-23/CMSSW_12_4_X_2024-03-03-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
-                    "details": {
-                        "num_passed": 3650, 
-                        "known_failed": 0, 
-                        "num_failed": 1
-                    }
-                }
-            ], 
+            "relvals": [], 
             "igprof": "not-found", 
             "release_queue": "CMSSW_12_4_X", 
             "release_name": "CMSSW_12_4_X_2024-03-03-2300", 
@@ -383,14 +350,6 @@
             "base_branch": "CMSSW_12_4_X", 
             "invalid_includes": [], 
             "builds": [
-                {
-                    "arch": "slc7_amd64_gcc10", 
-                    "passed": "passed", 
-                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc10/www/sun/12.4-sun-23/CMSSW_12_4_X_2024-03-03-2300/new/logAnalysis.pkl", 
-                    "details": {
-                        "ignoreWarning": 58
-                    }
-                }, 
                 {
                     "arch": "el8_ppc64le_gcc10", 
                     "passed": "passed", 
@@ -409,24 +368,13 @@
                 {
                     "arch": "el8_ppc64le_gcc10", 
                     "passed": "passed"
-                }, 
-                {
-                    "arch": "slc7_amd64_gcc10", 
-                    "passed": "passed"
                 }
             ], 
             "static_checks_failures": "not-found", 
             "static_checks": "not-found", 
             "isIB": true, 
             "inProgress": false, 
-            "addons": [
-                {
-                    "arch": "slc7_amd64_gcc10", 
-                    "passed": true, 
-                    "file": "/data/sdt/buildlogs/slc7_amd64_gcc10/www/sun/12.4-sun-23/CMSSW_12_4_X_2024-03-03-2300/addOnTests.log", 
-                    "details": {}
-                }
-            ], 
+            "addons": [], 
             "hlt_tests": "inprogress"
         }, 
         {
