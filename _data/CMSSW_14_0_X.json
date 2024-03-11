@@ -176,7 +176,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/slc7_amd64_gcc12/www/sun/14.0-sun-23/CMSSW_14_0_X_2024-03-10-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 4018, 
+                        "num_passed": 4260, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -187,7 +187,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/el9_amd64_gcc12/www/sun/14.0-sun-23/CMSSW_14_0_X_2024-03-10-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 10, 
+                        "num_passed": 91, 
                         "known_failed": 0, 
                         "num_failed": 0
                     }
@@ -199,8 +199,8 @@
                     "file": "/data/sdt/buildlogs/el8_aarch64_gcc12/www/sun/14.0-sun-23/CMSSW_14_0_X_2024-03-10-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
                         "num_passed": 3428, 
-                        "known_failed": 0, 
-                        "num_failed": 3
+                        "known_failed": 1, 
+                        "num_failed": 2
                     }
                 }, 
                 {
@@ -209,7 +209,7 @@
                     "passed": true, 
                     "file": "/data/sdt/buildlogs/el8_ppc64le_gcc12/www/sun/14.0-sun-23/CMSSW_14_0_X_2024-03-10-2300/pyRelValMatrixLogs/run/runall-report-step123-.log", 
                     "details": {
-                        "num_passed": 420, 
+                        "num_passed": 890, 
                         "known_failed": 5, 
                         "num_failed": 0
                     }
@@ -332,7 +332,7 @@
                     "details": {}
                 }
             ], 
-            "hlt_tests": "inprogress"
+            "hlt_tests": "passed"
         }, 
         {
             "comp_baseline_state": "errors", 
