@@ -1,0 +1,53 @@
+[
+    {
+        "exitcode": 0,
+        "id": "10824.504",
+        "known_error": 0,
+        "name": "TTbar_13+2018_Patatrack_PixelOnlyGPU_Profiling",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 44
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    },
+    {
+        "exitcode": 0,
+        "id": "12434.586",
+        "known_error": 0,
+        "name": "TTbar_14TeV+2023_Patatrack_AllTripletsGPU",
+        "steps": [
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 0
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 192
+            },
+            {
+                "errors": 0,
+                "status": "PASSED",
+                "warnings": 111
+            },
+            {
+                "errors": 17,
+                "status": "PASSED",
+                "warnings": 0
+            }
+        ]
+    }
+]
